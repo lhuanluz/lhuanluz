@@ -7,3 +7,6 @@ Everyday, I try to learn more about the Software development process, and find o
 
 
   [![Github Status](https://github-readme-stats.vercel.app/api?username=lhuanluz&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/lhuanluz/lhuanluz)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhuanluz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
