@@ -1,4 +1,4 @@
-<h2>Hi! I'm a Cyber Security Analyst and Fullstack developer with 5+ years of experience. I've worked on public sector projects (e.g., Patrimonial Contabilization, Human Resources Administration, Event Attendance, Customer Service Management) and some startups;<br/><br/>
+<h2>Hi! I'm a Cyber Security Analyst and Backend developer with 5+ years of experience. I've worked on public sector projects (e.g., Patrimonial Contabilization, Human Resources Administration, Event Attendance, Customer Service Management) and some startups;<br/><br/>
 Everyday, I try to learn more about the Software development process, and find out where it fails. </h2>
 
 
