@@ -1,4 +1,4 @@
-Hi! I'm a Cyber Security Analyst and Backend developer with 5+ years of experience. I've worked on public sector projects (e.g., Patrimonial Contabilization, Human Resources Administration, Event Attendance, Customer Service Management) and some startups;<br/><br/>
+Hi! I'm a Cyber Security Analyst and Backend developer with 6+ years of experience. I've worked on public sector projects (e.g., Patrimonial Contabilization, Human Resources Administration, Event Attendance, Customer Service Management) and some startups;<br/><br/>
 
 
 
