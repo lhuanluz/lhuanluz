@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Luan</h2>
-<p>I'm currently a cybersecurity & GRC analyst at <strong><a href="https://www.totalpass.com/">TotalPass</a></strong> based in 🌴Maceió. I am working on some side projects, learning a couple new tricks, and trying brew a good espresso.</p>
+<p>I'm currently a cybersecurity & GRC analyst at <strong><a href="https://www.totalpass.com/">TotalPass</a></strong> based in 🌴Maceió. I am working on some side projects, learning a couple of new tricks, and trying to brew a good espresso.</p>
 <p><a href="https://luanluz.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white;link=[[https://luanluz.medium.com](https://luanluz.medium.com)](https://luanluz.medium.com)" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/luanluz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white;link=https://www.linkedin.com/in/luanluz/" alt="LinkedIn Badge"></a></p>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXI3Y3M5bXY3enp3dnhkZWN2ZWd3anVlcTh3dDNkOW9ncWhyd2txZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13zr9fceQqQnrq/giphy.gif" />
 <h2>⚡️ A few quick facts</h2>
