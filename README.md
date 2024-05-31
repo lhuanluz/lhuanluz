@@ -4,7 +4,7 @@
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXI3Y3M5bXY3enp3dnhkZWN2ZWd3anVlcTh3dDNkOW9ncWhyd2txZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13zr9fceQqQnrq/giphy.gif" />
 <h3>⚡️ A few quick facts</h3>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/lhuanluz/zefinha">Zefinha</a>.</li>
+<li>🔭 I’m currently learning <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />.</li>
 <li>🧐 Learning about <strong>A.I</strong>, <strong>GRC</strong>, and a bit of <strong>application security</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/lhuanluz">Github</a>.</li>
 <li>📝 I write articles on <a href="https://luanluz.medium.com">my medium</a>.</li>
