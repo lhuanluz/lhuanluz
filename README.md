@@ -7,7 +7,7 @@
 <li>🔭 I’m currently learning <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />.</li>
 <li>🧐 Learning about <strong>A.I</strong>, <strong>GRC</strong>, and a bit of <strong>application security</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/lhuanluz">Github</a>.</li>
-<li>📝 I write articles on <a href="https://luanluz.medium.com">my medium</a>.</li>
+<li>📝 I write articles on <a href="https://luanluz.medium.com">medium</a>.</li>
 <li>💬 Ping me about <strong>cybersecurity, and GRC</strong>.</li>
 </ul>
 <h3>🚀 Some tools I use</h3>
