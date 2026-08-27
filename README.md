@@ -41,6 +41,3 @@
 
 
 </p>
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=lhuanluz&theme=vue-dark&show_icons=true"  />
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhuanluz&theme=vue-dark&layout=compact" />
-
